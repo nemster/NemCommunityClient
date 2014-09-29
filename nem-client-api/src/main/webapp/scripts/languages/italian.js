@@ -54,7 +54,7 @@ define({
         			1: 'un giorno',
         			many: '{{1}} giorni'
         		},
-        		synchronized: 'NIS is synchronized!'
+        		synchronized: 'NIS è sincronizzato!'
         	}
         	// nisStatus: {
         	// 	nccUnavailable: 'NCC non disponibile',
